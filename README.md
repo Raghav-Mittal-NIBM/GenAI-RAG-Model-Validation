@@ -46,7 +46,6 @@ report/
 | Embedding Model | BAAI/bge-small-en-v1.5 |
 | Vector Database | FAISS |
 | LLM | Microsoft Phi-3 Mini |
-| Evaluation Model | Sentence Transformers |
 | Programming Language | Python |
 
 ---
