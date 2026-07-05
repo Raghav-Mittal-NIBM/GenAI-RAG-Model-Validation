@@ -25,15 +25,15 @@ An independent evaluation framework was developed to assess the performance of t
 
 ```text
 notebooks/
-    01_RAG_Pipeline.ipynb
-    02_Model_Evaluation.ipynb
+    01_Building the RAG System.ipynb
+    02_Evaluating the RAG Model.ipynb
 
 outputs/
     rag_results.csv
     rag_results_final.csv
 
 report/
-    RAG_Model_Validation_Report.pdf
+    RAG_Prototype_Model Validation Doc (Raghav Mittal)
 ```
 
 ---
